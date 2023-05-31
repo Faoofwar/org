@@ -1,0 +1,32 @@
+.equipo {
+
+    width: 100%;
+    padding: 32px;
+    box-sizing: border-box;
+    text-align: center;
+    position: relative;
+}
+
+.input-color{
+    position: absolute;
+    top: 20px;
+    right: 50px;
+}
+
+.equipo h3{
+    
+    color: #212121;
+    padding-bottom: 8px;
+    border-bottom: 4px solid ;
+    display: inline-block;
+    font-weight: 400;
+    font-size: 32px;
+    font-family: 'Prata';
+    
+}
+
+.colaboradores {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
